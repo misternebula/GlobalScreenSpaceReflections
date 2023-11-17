@@ -4,7 +4,6 @@
   "author": "_nebula",
   "name": "Global SSR",
   "uniqueName": "_nebula.GlobalScreenSpaceReflections",
-  "version": "0.1.0",
-  "owmlVersion": "2.9.6",
-  "dependencies": []
+  "version": "1.0.0",
+  "owmlVersion": "2.9.8"
 }
