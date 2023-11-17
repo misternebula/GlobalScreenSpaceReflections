@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "GlobalScreenSpaceReflections.dll",
+  "author": "_nebula",
+  "name": "Global SSR",
+  "uniqueName": "_nebula.GlobalScreenSpaceReflections",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.6",
+  "dependencies": []
+}
